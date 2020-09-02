@@ -1,0 +1,25 @@
+.searchresults {
+     display: inline-block;
+    padding: 20px 20px 20px 20px;
+    
+     margin-left: 100px;
+     margin-top: 50px;
+    background-color: crimson;
+    border: 2px solid darkred;
+    box-shadow: 10px 10px black;
+   opacity: .7;
+    
+}
+
+
+h2{
+    margin-top: 0px;
+    color: ghostwhite;
+    text-align: center;
+    
+    
+}
+h3{
+    
+    display: block;
+}
